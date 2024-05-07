@@ -1,0 +1,14 @@
+Z:\programacion 2024\tp02_Bis_Brodsky\bin\Debug\net8.0\tp02_Bis_Brodsky.exe
+Z:\programacion 2024\tp02_Bis_Brodsky\bin\Debug\net8.0\tp02_Bis_Brodsky.deps.json
+Z:\programacion 2024\tp02_Bis_Brodsky\bin\Debug\net8.0\tp02_Bis_Brodsky.runtimeconfig.json
+Z:\programacion 2024\tp02_Bis_Brodsky\bin\Debug\net8.0\tp02_Bis_Brodsky.dll
+Z:\programacion 2024\tp02_Bis_Brodsky\bin\Debug\net8.0\tp02_Bis_Brodsky.pdb
+Z:\programacion 2024\tp02_Bis_Brodsky\obj\Debug\net8.0\tp02_Bis_Brodsky.GeneratedMSBuildEditorConfig.editorconfig
+Z:\programacion 2024\tp02_Bis_Brodsky\obj\Debug\net8.0\tp02_Bis_Brodsky.AssemblyInfoInputs.cache
+Z:\programacion 2024\tp02_Bis_Brodsky\obj\Debug\net8.0\tp02_Bis_Brodsky.AssemblyInfo.cs
+Z:\programacion 2024\tp02_Bis_Brodsky\obj\Debug\net8.0\tp02_Bis_Brodsky.csproj.CoreCompileInputs.cache
+Z:\programacion 2024\tp02_Bis_Brodsky\obj\Debug\net8.0\tp02_Bis_Brodsky.dll
+Z:\programacion 2024\tp02_Bis_Brodsky\obj\Debug\net8.0\refint\tp02_Bis_Brodsky.dll
+Z:\programacion 2024\tp02_Bis_Brodsky\obj\Debug\net8.0\tp02_Bis_Brodsky.pdb
+Z:\programacion 2024\tp02_Bis_Brodsky\obj\Debug\net8.0\tp02_Bis_Brodsky.genruntimeconfig.cache
+Z:\programacion 2024\tp02_Bis_Brodsky\obj\Debug\net8.0\ref\tp02_Bis_Brodsky.dll

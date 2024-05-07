@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tp02_Bis_Brodsky/1.0.0": {
+        "runtime": {
+          "tp02_Bis_Brodsky.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp02_Bis_Brodsky/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
